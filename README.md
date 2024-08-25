@@ -1,4 +1,4 @@
-# Data_Visualisation_Cloud_Software
+# Predictive Analytics and Issue Classification for Cloud-Based Software Solutions
 
 In this project, I worked as a Data Analyst at an IT company that provides cloud-based solutions to businesses. My primary tasks involved predicting software demand, classifying system issues by severity, detecting anomalies, and developing a recommendation system. The goal was to enhance the company’s ability to anticipate customer needs, optimize response strategies, and improve service delivery.
 
